@@ -1,0 +1,17 @@
+2026-11-19 10:43:56,651 - WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on http://127.0.0.1:5000
+2026-11-19 10:43:56,652 - Press CTRL+C to quit
+2026-11-19 10:43:56,653 -  * Restarting with stat
+2026-11-19 10:43:57,011 -  * Debugger is active!
+2026-11-19 10:43:57,014 -  * Debugger PIN: 110-218-058
+2026-11-19 10:56:19,573 - WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.72.48:5000
+2026-11-19 10:56:19,573 - Press CTRL+C to quit
+2026-11-19 10:58:29,549 - 127.0.0.1 - - [19/Nov/2026 10:58:29] "GET / HTTP/1.1" 200 -
+2026-11-19 10:58:30,466 - 127.0.0.1 - - [19/Nov/2026 10:58:30] "GET /favicon.ico HTTP/1.1" 404 -
+2026-11-19 10:59:11,942 - 192.168.72.48 - - [19/Nov/2026 10:59:11] "GET / HTTP/1.1" 200 -
+2026-11-19 10:59:12,065 - 192.168.72.48 - - [19/Nov/2026 10:59:12] "GET /favicon.ico HTTP/1.1" 404 -
+2026-11-19 11:00:08,976 - 127.0.0.1 - - [19/Nov/2026 11:00:08] "GET / HTTP/1.1" 200 -
+2026-11-19 11:00:09,093 - 127.0.0.1 - - [19/Nov/2026 11:00:09] "GET /favicon.ico HTTP/1.1" 404 -
